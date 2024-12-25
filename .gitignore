@@ -16,4 +16,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+*.hdf5
+*.pt
+*.tar
